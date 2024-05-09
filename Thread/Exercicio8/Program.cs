@@ -6,7 +6,7 @@ public static class Program
     {
         // ...
     }
-    private static void Print()
+    private static void Imprimir(int i)
     {
         // ...
     }

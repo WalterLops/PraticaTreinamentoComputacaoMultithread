@@ -2,11 +2,11 @@
 
 public static class Program
 {
-    public static void Main()
+    public static async Task Main()
     {
         // ...
     }
-    private static void Imprimir(int i)
+    private static async Task Imprimir(int i)
     {
         // ...
     }

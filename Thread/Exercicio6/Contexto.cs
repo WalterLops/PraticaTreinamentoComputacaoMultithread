@@ -1,4 +1,4 @@
-namespace Exercicio8;
+namespace Exercicio6;
 
 public class Contexto : IDisposable
 {
